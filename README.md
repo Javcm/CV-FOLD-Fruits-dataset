@@ -4,6 +4,7 @@ Using CV-FOLD in order to get the best parameters to classificate the MNIST-digi
 -Support vectors machine 
 
 -Logistic regression 
+
 -Decision tree
 
 -Ada boost -MLP classifier
