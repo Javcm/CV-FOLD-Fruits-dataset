@@ -7,5 +7,7 @@ Using CV-FOLD in order to get the best parameters to classificate the MNIST-digi
 
 -Decision tree
 
--Ada boost -MLP classifier
+-Ada boost
+
+-MLP classifier
 Obtaining the best score with support vector machine and Neural Networks.
